@@ -1,5 +1,5 @@
-## EX-21-POINTERS
-# AIM:
+# EX-21-POINTERS
+## AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
 ## ALGORITHM:
@@ -35,6 +35,7 @@ int main() {
 Thus the program to convert a 23.65 into 25 using pointer has been executed successfully.
  
  
+
 
 
 # EX-22-FUNCTIONS AND STORAGE CLASS
@@ -85,6 +86,7 @@ Thus the program has been executed successfully.
  
 
 
+
 # EX-23-ARRAYS AND ITS OPERATIONS
 
 ## AIM:
@@ -130,6 +132,7 @@ int main() {
 
 
  ## RESULT
+Thus the program has been executed successfully.
  
 
 
@@ -187,7 +190,7 @@ Thus the C program to String process executed successfully
  
 
  
-.
+
 
 
 
